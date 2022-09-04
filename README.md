@@ -1,8 +1,6 @@
-
-[![MasterHead](https:////www.timetrakgo.com/wp-content/uploads/2015/11/WorkingFromHomeBackgroundLogo.jpg)](https://tom-abella.io)
 <h1 align="center">Hi 👋, I'm Tom Leonard N. Abella</h1>
-<h3 align="center">An aspiring passionate frontend developer from Caloocan City, Philippines</h3>
-<img align="right" alt="coding" width="400" src="https://![image](https://user-images.githubusercontent.com/85326701/188324633-b68efe93-5b2e-4502-a2f1-3e0dda9cdfe0.png)">
+<h3 align="center">4th year Computer Engineering Technology student at Technological University of the Philippines and an aspiring passionate frontend developer from Caloocan City</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 - 🌱 I’m currently learning **JavaScript and Frameworks**
 
