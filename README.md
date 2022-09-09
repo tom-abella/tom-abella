@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom Leonard N. Abella</h1>
 <h3 align="center"> An aspiring and passionate frontend developer from Caloocan City</h3>
-
+<hr>
 - 🌱 I’m currently learning **JavaScript and Frameworks**
 
 - 📫 How to reach me **tomleonardabella@gmail.com**
