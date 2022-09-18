@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/tom-leonard-abella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-leonard-abella" height="30" width="40" /></a>
 <a href="https://fb.com/tomleonard.abella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomleonard.abella" height="30" width="40" /></a>
 <a href="https://instagram.com/abella_tl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abella_tl" height="30" width="40" /></a>
-<a href="https://discord.gg/TOMMM#5489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TOMMM#5489" height="30" width="40" /></a>
 </p>
 
 <hr>
