@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tom Leonard N. Abella</h1>
 <h3 align="center"> An aspiring and passionate Full Stack Web developer from Caloocan City</h3>
 <hr>
-- 🌱 I’m currently learning **JavaScript and Frameworks**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **tomleonardabella@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
