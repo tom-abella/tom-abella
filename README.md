@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/tom-leonard-abella)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/abella_tl)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://fb.com/tomleonard.abella)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://https://tom-abella.github.io/Portfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://tomleonard-abella.vercel.app)
 [<img src="https://img.shields.io/badge/gmail-orange.svg?&style=for-the-badge&logo=gmail&logoColor=red">](mailto:tomleonardabella@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
